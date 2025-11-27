@@ -1,0 +1,206 @@
+current mode: nl
+Loading all detected objects in dataset...
+=== Epoch 1 completed, average loss: 0.6404936596646075 ===
+Validation loss: 0.5748544350220579
+=== Epoch 2 completed, average loss: 0.49896603033046677 ===
+Validation loss: 0.36972354687383313
+=== Epoch 3 completed, average loss: 0.3904640431543879 ===
+Validation loss: 0.2787874365096976
+=== Epoch 4 completed, average loss: 0.31257499562184327 ===
+Validation loss: 0.19420151699499544
+=== Epoch 5 completed, average loss: 0.21949000279427158 ===
+Validation loss: 0.12326232953354936
+=== Epoch 6 completed, average loss: 0.17705710212997808 ===
+Validation loss: 0.09306873728617512
+=== Epoch 7 completed, average loss: 0.11566162837652266 ===
+Validation loss: 0.0647604856741032
+=== Epoch 8 completed, average loss: 0.089205398325989 ===
+Validation loss: 0.043928031460955516
+=== Epoch 9 completed, average loss: 0.022248479163943104 ===
+Validation loss: -0.008711962906524465
+=== Epoch 10 completed, average loss: -0.0023756117595780694 ===
+Validation loss: 0.01946774386098893
+=== Epoch 11 completed, average loss: -0.01976132840730777 ===
+Validation loss: 0.050559123917459856
+=== Epoch 12 completed, average loss: -0.05516754679399294 ===
+Validation loss: -0.006880061295378972
+=== Epoch 13 completed, average loss: -0.08765857515187228 ===
+Validation loss: -0.04807508110247662
+=== Epoch 14 completed, average loss: -0.10106976599094387 ===
+Validation loss: -0.04228539532601026
+=== Epoch 15 completed, average loss: -0.12576225145022316 ===
+Validation loss: -0.052545515674492116
+=== Epoch 16 completed, average loss: -0.14343567957561248 ===
+Validation loss: -0.013526105245786348
+=== Epoch 17 completed, average loss: -0.1451063082027296 ===
+Validation loss: -0.030122597189849526
+=== Epoch 18 completed, average loss: -0.16652264286154944 ===
+Validation loss: -0.037909420131902974
+=== Epoch 19 completed, average loss: -0.18571715127302085 ===
+Validation loss: -0.03332202070819333
+=== Epoch 20 completed, average loss: -0.19468309499492323 ===
+Validation loss: -0.0016916476694747733
+=== Epoch 21 completed, average loss: -0.21128826329977216 ===
+Validation loss: -0.047062021082845226
+====================
+Done with epoch 21!
+Saving weights as /nfs/home2/Public/3D-BoundingBox/weights/epoch_21_nl.pkl ...
+====================
+=== Epoch 22 completed, average loss: -0.21975191575372882 ===
+Validation loss: -0.00401021177362045
+=== Epoch 23 completed, average loss: -0.22094507187229345 ===
+Validation loss: 0.00616908963687094
+=== Epoch 24 completed, average loss: -0.22560681313901151 ===
+Validation loss: 0.013533085623177989
+=== Epoch 25 completed, average loss: -0.2388209423253674 ===
+Validation loss: -0.01763030035246916
+=== Epoch 26 completed, average loss: -0.24503898064612548 ===
+Validation loss: -0.04243669287012569
+=== Epoch 27 completed, average loss: -0.25330534310943026 ===
+Validation loss: -0.0019025452453367816
+=== Epoch 28 completed, average loss: -0.2549797309331168 ===
+Validation loss: 0.005114110625289344
+=== Epoch 29 completed, average loss: -0.26136081658913446 ===
+Validation loss: -0.00825280642843452
+=== Epoch 30 completed, average loss: -0.2711833833917904 ===
+Validation loss: -0.019471052786326173
+=== Epoch 31 completed, average loss: -0.27599583388900073 ===
+Validation loss: 0.0409746861842282
+=== Epoch 32 completed, average loss: -0.274914822788298 ===
+Validation loss: -0.0028840326543512016
+=== Epoch 33 completed, average loss: -0.2791995918787997 ===
+Validation loss: 0.015497603488563024
+=== Epoch 34 completed, average loss: -0.28673404135959607 ===
+Validation loss: 0.007373706149533758
+=== Epoch 35 completed, average loss: -0.2868554625349817 ===
+Validation loss: 0.008395148444865724
+=== Epoch 36 completed, average loss: -0.293586685055477 ===
+Validation loss: 0.024638295944394737
+=== Epoch 37 completed, average loss: -0.30004406339698514 ===
+Validation loss: 0.04791463798077162
+=== Epoch 38 completed, average loss: -0.29619313122386454 ===
+Validation loss: 0.005756990407855053
+=== Epoch 39 completed, average loss: -0.30549441464933996 ===
+Validation loss: 0.08716156745852507
+=== Epoch 40 completed, average loss: -0.3055171231314079 ===
+Validation loss: 0.012409432030516893
+=== Epoch 41 completed, average loss: -0.30276593571610977 ===
+Validation loss: 0.0546217900164095
+=== Epoch 42 completed, average loss: -0.3067242380510304 ===
+Validation loss: 0.04043648000072523
+=== Epoch 43 completed, average loss: -0.3074384434800618 ===
+Validation loss: 0.02266457039734413
+=== Epoch 44 completed, average loss: -0.31076107844540474 ===
+Validation loss: 0.050008818509029634
+=== Epoch 45 completed, average loss: -0.3171746316736636 ===
+Validation loss: 0.04417981084968362
+=== Epoch 46 completed, average loss: -0.31770295405791166 ===
+Validation loss: 0.029579652941285683
+=== Epoch 47 completed, average loss: -0.318738627109088 ===
+Validation loss: 0.030902134592236556
+=== Epoch 48 completed, average loss: -0.3237352330716947 ===
+Validation loss: 0.05236017700798552
+=== Epoch 49 completed, average loss: -0.321837372682109 ===
+Validation loss: 0.06210917582496854
+=== Epoch 50 completed, average loss: -0.32080547840719903 ===
+Validation loss: 0.043561285160702144
+=== Epoch 51 completed, average loss: -0.3245607711935344 ===
+Validation loss: 0.09121959153379272
+=== Epoch 52 completed, average loss: -0.32202597497004004 ===
+Validation loss: 0.061430032924735194
+=== Epoch 53 completed, average loss: -0.32678361366543573 ===
+Validation loss: 0.03933076932292266
+=== Epoch 54 completed, average loss: -0.33034058488053303 ===
+Validation loss: 0.0791592238425034
+=== Epoch 55 completed, average loss: -0.3289608793275324 ===
+Validation loss: 0.04424432243399432
+=== Epoch 56 completed, average loss: -0.3292785881526561 ===
+Validation loss: 0.04976298023437338
+=== Epoch 57 completed, average loss: -0.33357908990530727 ===
+Validation loss: 0.0747248262772566
+=== Epoch 58 completed, average loss: -0.33119360990601937 ===
+Validation loss: 0.07013594822618614
+=== Epoch 59 completed, average loss: -0.33632497933512107 ===
+Validation loss: 0.04869690676279403
+=== Epoch 60 completed, average loss: -0.33271036215267924 ===
+Validation loss: 0.06201119926927859
+=== Epoch 61 completed, average loss: -0.3364771948381248 ===
+Validation loss: 0.08079032956397739
+=== Epoch 62 completed, average loss: -0.33537682580367 ===
+Validation loss: 0.05746974217260412
+=== Epoch 63 completed, average loss: -0.33675853155749846 ===
+Validation loss: 0.054788290010077026
+=== Epoch 64 completed, average loss: -0.3369655013550417 ===
+Validation loss: 0.0499354275571999
+=== Epoch 65 completed, average loss: -0.3357707434644914 ===
+Validation loss: 0.05522828356872125
+=== Epoch 66 completed, average loss: -0.3407477495697388 ===
+Validation loss: 0.06246262911542002
+=== Epoch 67 completed, average loss: -0.3428343762986827 ===
+Validation loss: 0.08779644583962087
+=== Epoch 68 completed, average loss: -0.3437914651767382 ===
+Validation loss: 0.0845790431527375
+=== Epoch 69 completed, average loss: -0.3411936254738946 ===
+Validation loss: 0.07342531065378577
+=== Epoch 70 completed, average loss: -0.33864681906162564 ===
+Validation loss: 0.08262329064814254
+=== Epoch 71 completed, average loss: -0.34337888833016916 ===
+Validation loss: 0.0959097668592786
+=== Epoch 72 completed, average loss: -0.3419800720859153 ===
+Validation loss: 0.07184373208050951
+=== Epoch 73 completed, average loss: -0.34611918779063877 ===
+Validation loss: 0.07782539581246857
+=== Epoch 74 completed, average loss: -0.33817169554889687 ===
+Validation loss: 0.07218457350112828
+=== Epoch 75 completed, average loss: -0.3445549325384833 ===
+Validation loss: 0.09508464220966319
+=== Epoch 76 completed, average loss: -0.3438179471681759 ===
+Validation loss: 0.07734072953095578
+=== Epoch 77 completed, average loss: -0.3472912473521901 ===
+Validation loss: 0.08310928601276112
+=== Epoch 78 completed, average loss: -0.3494562881626602 ===
+Validation loss: 0.10904429128090737
+=== Epoch 79 completed, average loss: -0.34585255740721416 ===
+Validation loss: 0.09703953545081792
+=== Epoch 80 completed, average loss: -0.3465068972026087 ===
+Validation loss: 0.11807802028109875
+=== Epoch 81 completed, average loss: -0.3480012666958363 ===
+Validation loss: 0.08887333524931827
+=== Epoch 82 completed, average loss: -0.34896485474753075 ===
+Validation loss: 0.08461768586427121
+=== Epoch 83 completed, average loss: -0.3486428857497028 ===
+Validation loss: 0.09757664917321335
+=== Epoch 84 completed, average loss: -0.34824574650636014 ===
+Validation loss: 0.11236070395984087
+=== Epoch 85 completed, average loss: -0.34674179036237274 ===
+Validation loss: 0.08918298478169467
+=== Epoch 86 completed, average loss: -0.34897731021604467 ===
+Validation loss: 0.06856998441548183
+=== Epoch 87 completed, average loss: -0.3480624112789307 ===
+Validation loss: 0.09236144258324148
+=== Epoch 88 completed, average loss: -0.3482663821890888 ===
+Validation loss: 0.07899324928818666
+=== Epoch 89 completed, average loss: -0.3489030993150789 ===
+Validation loss: 0.08210689036239838
+=== Epoch 90 completed, average loss: -0.3505018744319273 ===
+Validation loss: 0.09576302080282144
+=== Epoch 91 completed, average loss: -0.3494474928282497 ===
+Validation loss: 0.10613473215108288
+=== Epoch 92 completed, average loss: -0.3500828680366329 ===
+Validation loss: 0.07801937151039616
+=== Epoch 93 completed, average loss: -0.34876287585716176 ===
+Validation loss: 0.09012267605534621
+=== Epoch 94 completed, average loss: -0.34966901800897554 ===
+Validation loss: 0.10010364688198849
+=== Epoch 95 completed, average loss: -0.349925544704725 ===
+Validation loss: 0.08869909629629456
+=== Epoch 96 completed, average loss: -0.35078187475092515 ===
+Validation loss: 0.09561584912552476
+=== Epoch 97 completed, average loss: -0.35075028148145293 ===
+Validation loss: 0.09410062273000849
+=== Epoch 98 completed, average loss: -0.35066107363941224 ===
+Validation loss: 0.11029667792006813
+=== Epoch 99 completed, average loss: -0.35322796620450597 ===
+Validation loss: 0.0840215153138846
+=== Epoch 100 completed, average loss: -0.3521787550553793 ===
+Validation loss: 0.10580381984487543
